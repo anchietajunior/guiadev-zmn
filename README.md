@@ -39,6 +39,8 @@ Objetivo: Aprender o básico de CSS e seus atributos mais utilizados, por exempl
  
  Ao final deste item, precisamos de conhecimento suficiente para criar estilos de elementos HTML e aplicando conceitos de responsividade.
  
+ [Vídeo aula no Youtube](https://www.youtube.com/watch?v=vj9SjHqT-4o)
+ 
  ### Item 3 - Projeto Landing page Hotel
  
  Objetivo: Criar uma landing page responsiva de um Hotel contendo informações sobre uma campanha promocional do hotel e formulário de cadastro para receber informações sobre a promoção.
