@@ -10,7 +10,7 @@ Guia de início em desenvolvimento de projetos Web
 
 ### Item 1 - HTML
 
-A ideia é aprender o básico sobre as principais tags e semântica.
+Objetivo: Aprender o básico sobre as principais tags e semântica.
 
 - html
 - head, meta, title
@@ -25,4 +25,14 @@ Ao final deste item, precisamos de conhecimento suficiente para escrever código
   
  ### CSS
  
+Objetivo: Aprender o básico de CSS e seus atributos mais utilizados, por exemplo:
+
+- margin
+- padding
+- background
+- color
+- font-size, font-family
+ - flexbox
+ - Media Queries/Breakpoints
  
+ Ao final deste item, precisamos de conhecimento suficiente para criar estilos de elementos HTML e aplicando conceitos de responsividade.
