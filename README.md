@@ -23,7 +23,7 @@ Objetivo: Aprender o básico sobre as principais tags e semântica.
   
 Ao final deste item, precisamos de conhecimento suficiente para escrever código HTML utilizando essas tags e entender em qual situação cada uma se encaixa da melhor forma.
   
- ### CSS
+ ### Item 2 - CSS
  
 Objetivo: Aprender o básico de CSS e seus atributos mais utilizados, por exemplo:
 
@@ -36,3 +36,45 @@ Objetivo: Aprender o básico de CSS e seus atributos mais utilizados, por exempl
  - Media Queries/Breakpoints
  
  Ao final deste item, precisamos de conhecimento suficiente para criar estilos de elementos HTML e aplicando conceitos de responsividade.
+ 
+ ### Item 3 - Projeto Landing page Hotel
+ 
+ Objetivo: Criar uma landing page responsiva de um Hotel contendo informações sobre uma campanha promocional do hotel e formulário de cadastro para receber informações sobre a promoção.
+ 
+ ### Item 4 - Códigos no Github
+ 
+ Todos os códigos devem ser publicados em um repositório no Github.
+ 
+## Segunda fase
+
+### Item 1 - Javascript
+
+Objetivo: Entender o uso da linguagem Javascript no front-end e entender os seguintes conceitos:
+
+- Criar alertas e imprimir mensagens no console do browser
+- Selecionar elementos html via JS utilizando selectors
+- Alterar propriedades CSS de elements utilizando JS
+- Alterar o conteúdo de elementos utilizando JS
+- Conceito de Linguagem assíncrona
+
+### Item 2 - Javascript intermediário
+
+Objetivo: Entender o funcionamento da linguagem no dia a dia.
+
+- SetTimeOut / SetInterval
+- Async/Await
+- Fetch
+
+### Item 3 - Projeto Website Hotel
+
+Objetivo: Construir um site responsivo para um novo Hotel que possui 3 páginas:
+
+- Home
+- Acomodações
+- Contato
+
+Alguns conceitos como validação de formulários, modal, um cronômetro sendo atualizado a cada segundo fazendo referência a data de abertura do Hotel e exibir informações diferentes conforme os eventos do usuário no site podem ser aplicados para esse projeto.
+
+ ### Item 4 - Códigos no Github
+ 
+ Todos os códigos devem ser publicados em um repositório no Github.
