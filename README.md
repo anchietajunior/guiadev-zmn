@@ -61,6 +61,8 @@ Objetivo: Entender o uso da linguagem Javascript no front-end e entender os segu
 - Alterar o conteúdo de elementos utilizando JS
 - Conceito de Linguagem assíncrona
 
+[Vídeo aula no Youtube](https://www.youtube.com/watch?v=W3EK4MlZW4g)
+
 ### Item 2 - Javascript básico 2
 
 Objetivo: Entender o funcionamento da linguagem no dia a dia.
@@ -68,6 +70,8 @@ Objetivo: Entender o funcionamento da linguagem no dia a dia.
 - SetTimeOut / SetInterval
 - Async/Await
 - Fetch
+
+[Vídeo aula no Youtube](https://www.youtube.com/watch?v=7Bs4-rqbCQc)
 
 ### Item 3 - Projeto Website Hotel
 
@@ -90,3 +94,5 @@ Alguns conceitos como validação de formulários, modal, um cronômetro sendo a
  Objetivo: Entender o básico sobre deploy e publicação de projetos.
  
  Extra: Configuração de domínio no Netlify.
+ 
+ [Vídeo aula no Youtube](https://www.youtube.com/watch?v=bjVUqvcCnxM)
