@@ -22,6 +22,8 @@ Objetivo: Aprender o básico sobre as principais tags e semântica.
 - form, input
   
 Ao final deste item, precisamos de conhecimento suficiente para escrever código HTML utilizando essas tags e entender em qual situação cada uma se encaixa da melhor forma.
+
+[Vídeo aula no Youtube](https://www.youtube.com/watch?v=4Gq3WW6FwVA)
   
  ### Item 2 - CSS
  
