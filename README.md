@@ -1,6 +1,6 @@
 # guiadev-zmn
 
-Guia de início em desenvolvimento de projetos Web
+Guia de início em desenvolvimento de projetos Web iniciando em 13/03/2020 e com prazo final em 13/06/2020.
 
 ## Mindmap
 
