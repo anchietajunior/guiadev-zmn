@@ -78,3 +78,11 @@ Alguns conceitos como validação de formulários, modal, um cronômetro sendo a
  ### Item 4 - Códigos no Github
  
  Todos os códigos devem ser publicados em um repositório no Github.
+ 
+ ### Item 5 - Deploy do projeto para o Netlify
+ 
+ Netlify é uma plataforma de hospedagem de arquivos estáticos (HTML, CSS e JS).
+ 
+ Objetivo: Entender o básico sobre deploy e publicação de projetos.
+ 
+ Extra: Configuração de domínio no Netlify.
