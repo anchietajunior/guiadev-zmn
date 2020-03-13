@@ -47,7 +47,7 @@ Objetivo: Aprender o básico de CSS e seus atributos mais utilizados, por exempl
  
 ## Segunda fase
 
-### Item 1 - Javascript
+### Item 1 - Javascript básico 1
 
 Objetivo: Entender o uso da linguagem Javascript no front-end e entender os seguintes conceitos:
 
@@ -57,7 +57,7 @@ Objetivo: Entender o uso da linguagem Javascript no front-end e entender os segu
 - Alterar o conteúdo de elementos utilizando JS
 - Conceito de Linguagem assíncrona
 
-### Item 2 - Javascript intermediário
+### Item 2 - Javascript básico 2
 
 Objetivo: Entender o funcionamento da linguagem no dia a dia.
 
