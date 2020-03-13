@@ -8,7 +8,7 @@ Guia de início em desenvolvimento de projetos Web
 
 ## Primeira fase
 
-### HTML
+### Item 1 - HTML
 
 A ideia é aprender o básico sobre as principais tags e semântica.
 
@@ -21,7 +21,7 @@ A ideia é aprender o básico sobre as principais tags e semântica.
 - ul, ol, li
 - form, input
   
-Ao final desse estudo, precisamos de conhecimento suficiente para escrever código HTML utilizando essas tags e entender em qual situação cada uma se encaixa da melhor forma.
+Ao final deste item, precisamos de conhecimento suficiente para escrever código HTML utilizando essas tags e entender em qual situação cada uma se encaixa da melhor forma.
   
  ### CSS
  
